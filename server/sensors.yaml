@@ -1,0 +1,7 @@
+sensors:
+  temperature:
+    name: Temperature
+    units: °C
+  light:
+    name: Light sensitivity
+    units:
